@@ -10,3 +10,21 @@ https://github.com/microsoft/DirectXTK/releases/download/jul2025/MakeSpriteFont.
 
 std::unique_ptr<DirectX::SpriteFont> m_SpriteFont;
 ```
+
+```shell
+Usage: MakeSpriteFont <SourceFont> <OutputFile>
+
+Options:
+    /CharacterRegion:value
+    /DefaultCharacter:value
+    /FontSize:value
+    /FontStyle:value
+    /LineSpacing:value
+    /CharacterSpacing:value
+    /Sharp
+    /TextureFormat:value
+    /NoPremultiply
+    /DebugOutputSpriteSheet:value
+    /FeatureLevel:value
+    /FastPack
+```
