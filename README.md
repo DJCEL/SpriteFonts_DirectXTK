@@ -5,7 +5,6 @@ https://github.com/microsoft/DirectXTK
 
 https://github.com/microsoft/DirectXTK/releases/download/jul2025/MakeSpriteFont.exe
 
-
 ```cpp
 #include "directxtk/SpriteFont.h"
 
