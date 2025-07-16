@@ -1,5 +1,5 @@
 # SpriteFonts_DirectXTK
-Exemples of SpriteFonts compiled with MakeSpriteFont ( (c) Microsoft )
+Exemples of SpriteFonts compiled with MakeSpriteFont ( Copyright (c) Microsoft Corporation )
 
 https://github.com/microsoft/DirectXTK
 
