@@ -17,14 +17,14 @@ Usage: MakeSpriteFont <SourceFont> <OutputFile>
 Options:
     /CharacterRegion:value
     /DefaultCharacter:value
-    /FontSize:value
-    /FontStyle:value     with value In [Regular]
-    /LineSpacing:value
-    /CharacterSpacing:value
+    /FontSize:value     (by default: 23)
+    /FontStyle:value     with value In [Regular, Bold, Italic, Strikeout, Underline] (by default: Regular)
+    /LineSpacing:value     (by default: 0)
+    /CharacterSpacing:value    (by default: 0)
     /Sharp
-    /TextureFormat:value     with value In [Auto, Rgba32, Bgra4444, CompressedMono]
-    /NoPremultiply
+    /TextureFormat:value     with value In [Auto, Rgba32, Bgra4444, CompressedMono] (by default: Auto)
+    /NoPremultiply            (by default, font textures use premultiplied alpha format)
     /DebugOutputSpriteSheet:value
-    /FeatureLevel:value     with value In [FL9_1, FL9_2, FL9_3, FL10_0, FL10_1, FL11_0, FL11_1, FL12_0, FL12_1, FL12_2,]
+    /FeatureLevel:value     with value In [FL9_1, FL9_2, FL9_3, FL10_0, FL10_1, FL11_0, FL11_1, FL12_0, FL12_1, FL12_2,] (by default: FL9_1)
     /FastPack
 ```
