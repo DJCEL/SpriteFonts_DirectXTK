@@ -18,7 +18,7 @@ Options:
     /CharacterRegion:value
     /DefaultCharacter:value
     /FontSize:value
-    /FontStyle:value
+    /FontStyle:value     with Value In [Regular]
     /LineSpacing:value
     /CharacterSpacing:value
     /Sharp
