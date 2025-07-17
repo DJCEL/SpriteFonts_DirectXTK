@@ -22,9 +22,9 @@ Options:
     /LineSpacing:value
     /CharacterSpacing:value
     /Sharp
-    /TextureFormat:value
+    /TextureFormat:value     with value In [Auto, Rgba32, Bgra4444, CompressedMono]
     /NoPremultiply
     /DebugOutputSpriteSheet:value
-    /FeatureLevel:value
+    /FeatureLevel:value     with value In [FL9_1, FL9_2, FL9_3, FL10_0, FL10_1, FL11_0, FL11_1, FL12_0, FL12_1, FL12_2,]
     /FastPack
 ```
