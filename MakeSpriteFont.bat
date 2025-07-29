@@ -1,6 +1,11 @@
 @echo off
 setlocal enabledelayedexpansion
 
+echo =============================
+echo   MakeSpriteFonts
+echo =============================
+echo.
+
 REM --- Font name ---
 set FONT = "Calibri"
 
