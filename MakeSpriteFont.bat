@@ -6,7 +6,7 @@ echo   MakeSpriteFonts
 echo =============================
 echo.
 
-REM --- Font name ---
+REM --- Font name/size ---
 set FONT=Calibri
 set FONTSIZE_LIST=8,9,10,11,12,14,16,24,32
 
