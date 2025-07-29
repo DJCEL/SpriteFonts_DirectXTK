@@ -1,3 +1,9 @@
+@echo off
+setlocal enabledelayedexpansion
+
+REM --- Font name ---
+set FONT = "Calibri"
+
 MakeSpriteFont "Calibri" Calibri8.spritefont /FontSize:8
 MakeSpriteFont "Calibri" Calibri9.spritefont /FontSize:9
 MakeSpriteFont "Calibri" Calibri10.spritefont /FontSize:10
