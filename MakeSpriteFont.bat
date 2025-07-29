@@ -7,9 +7,9 @@ echo =============================
 echo.
 
 REM --- Font name ---
-set FONT = "Calibri"
+set FONT = Calibri
 
-MakeSpriteFont "Calibri" Calibri8.spritefont /FontSize:8
+MakeSpriteFont "%FONT%" %FONT%8.spritefont /FontSize:8
 MakeSpriteFont "Calibri" Calibri9.spritefont /FontSize:9
 MakeSpriteFont "Calibri" Calibri10.spritefont /FontSize:10
 MakeSpriteFont "Calibri" Calibri11.spritefont /FontSize:11
