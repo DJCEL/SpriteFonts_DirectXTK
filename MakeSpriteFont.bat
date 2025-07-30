@@ -14,6 +14,7 @@ cd SpriteFonts
 
 REM --- Run Command ---
 for %%i in (%FONTSIZE_LIST%) do (
+   echo.
    MakeSpriteFont "!FONT!" "!FONT!%%i.spritefont" /FontSize:%%i
 )
 
